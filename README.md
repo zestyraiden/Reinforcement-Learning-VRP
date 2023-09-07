@@ -1,4 +1,4 @@
-# Reinforcement-Learning-for-VRP
+# Reinforcement Learning for solving the Vhicle Routing Problem (VRP)
 Research project exploring reinforcement learning solutions to the Vehicle Routing Problem for a school project. PPO, A2C, DQN, SAC
 
 Collaborators:
